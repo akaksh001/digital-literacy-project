@@ -8,10 +8,15 @@ Below are the screenshots of my profiles:
 
 🔹 GitHub Profile
 ![GitHub Profile](github_profile.png)
+
+
 🔹 LinkedIn Profile
 ![LinkedIn Profile](linkedin_profile.png)
+
+
 🔹 HackerRank Profile
 ![Kaggle Profile](kaggle_profile.png)
+
 
 These screenshots are stored in the task-2-portfolio folder of this repository as proof of completion.
 
