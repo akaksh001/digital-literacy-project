@@ -7,11 +7,11 @@ While working on these platforms, I realized that it is important to keep profil
 Below are the screenshots of my profiles:
 
 🔹 GitHub Profile
-![GitHub Profile](Task-2-portfolio/github_profile.png)
+![GitHub Profile](github_profile.png)
 🔹 LinkedIn Profile
-![LinkedIn Profile](Task-2-portfolio/linkedin_profile.png)
+![LinkedIn Profile](linkedin_profile.png)
 🔹 HackerRank Profile
-![HackerRank Profile](Task-2-portfolio/kaggle_profile.png)
+![Kaggle Profile](kaggle_profile.png)
 
 These screenshots are stored in the task-2-portfolio folder of this repository as proof of completion.
 
