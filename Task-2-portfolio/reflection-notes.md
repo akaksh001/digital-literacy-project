@@ -11,7 +11,7 @@ Below are the screenshots of my profiles:
 
 
 🔹 LinkedIn Profile
-![LinkedIn Profile](linkedin_profile.png)
+![LinkedIn Profile](linkedln_profile.png)
 
 
 🔹 HackerRank Profile
