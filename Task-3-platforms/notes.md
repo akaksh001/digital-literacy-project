@@ -11,9 +11,19 @@ Below are the screenshots of my work:
 
 🔹 HackerRank Solution
 ![HackerRank Solution](hackerrank_solution.png)
+
+
+
 🔹 Google Form
 ![Google Form](googleform.png)
+
+
+
+
 🔹 Responses Sheet
 ![Responses](response_sheet.png)
+
+
+
 
 Through this task, I learned that digital tools are not only useful for learning but also for collaboration and data collection. Coding platforms help in building logical thinking, while tools like Google Forms are useful for surveys and academic work. This task improved both my technical and practical understanding of digital platforms.
